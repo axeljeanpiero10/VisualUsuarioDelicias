@@ -10,11 +10,7 @@ VisualUsuarioDelicias es la interfaz web orientada al usuario final de la plataf
 
 1. [Tecnologías](#tecnologías)  
 2. [Estructura del proyecto](#estructura-del-proyecto)  
-3. [Instalación](#instalación)  
-4. [Uso](#uso)  
-5. [Contribución](#contribución)  
-6. [Autor](#autor)  
-7. [Licencia](#licencia)  
+
 
 ---
 
