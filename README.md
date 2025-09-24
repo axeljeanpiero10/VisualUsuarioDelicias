@@ -100,15 +100,6 @@ VistaUsuarioDelicias-main/
 
 ---
 
-## Autor
-
-**Axel Jean Piero Bazán Ramos**  
-- Ubicación: Arequipa, Perú  
-- Correo: axel.bazan@example.com  
-- LinkedIn: https://www.linkedin.com/in/axeljeanpio  
-
----
-
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.  
