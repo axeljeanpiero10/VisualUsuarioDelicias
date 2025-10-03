@@ -1,51 +1,39 @@
-# VisualUsuarioDelicias
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-## Descripción
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-VisualUsuarioDelicias es la interfaz web orientada al usuario final de la plataforma **Delicias**, diseñada para que clientes exploren el menú, realicen pedidos y descubran promociones de forma intuitiva y atractiva. Incluye páginas responsivas, interacción dinámica con JavaScript y lógica de servidor en PHP para consultas a la base de datos y gestión de sesiones.
+🏋️‍♂️ Fitmax – Sistema de Gestión para Gimnasios
+Fitmax es una aplicación web desarrollada con Laravel para administrar gimnasios de forma eficiente. Permite gestionar usuarios, membresías, pagos, horarios y más, todo desde una interfaz moderna y segura.
 
----
+🚀 Características principales
+Registro y gestión de clientes
 
-## Tabla de contenidos
+Control de membresías y pagos
 
-1. [Tecnologías](#tecnologías)  
-2. [Estructura del proyecto](#estructura-del-proyecto)  
+Administración de horarios y entrenadores
 
+Panel de administración con estadísticas
 
----
+Autenticación y roles de usuario
 
-## Tecnologías
+🛠️ Tecnologías utilizadas
+Laravel – Framework backend
 
-- HTML5  
-- CSS3 (Flexbox, Grid y media queries)  
-- JavaScript (DOM, Fetch API)  
-- PHP (gestión de sesiones, consultas MySQL)  
-- MySQL (modelo de datos para productos, usuarios y pedidos)  
+Blade – Motor de plantillas
 
----
+MySQL – Base de datos
 
-## Estructura del proyecto
+JavaScript – Funcionalidades dinámicas
 
-```
-VistaUsuarioDelicias-main/
-│
-├─ assets/             # Imágenes, fuentes y recursos estáticos
-│
-├─ css/
-│  └─ styles.css       # Estilos globales y responsivos
-│
-├─ js/
-│  └─ app.js           # Lógica de interacción y llamadas AJAX
-│
-├─ php/
-│  ├─ config.php       # Parámetros de conexión a la base de datos
-│  ├─ login.php        # Autenticación de usuarios
-│  ├─ logout.php       # Cierre de sesión
-│  ├─ productos.php    # Endpoints para obtener items del menú
-│  └─ pedidos.php      # Gestión de creación y consulta de pedidos
-│
-└─ index.html          # Página principal de exploración de menú
-```
-
----
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
